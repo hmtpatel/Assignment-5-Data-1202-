@@ -15,5 +15,5 @@ To view the dataset we ran the head() function which returned top 5 rows of the 
 Then we applied .describe() function which returned important outputs like mean, standard deviations, count, min, max, and quartile values.
 Later in the Python codes, meadin() function is used to find out median values of Hits, Homerun, PutOuts, and Assists.
 AUTHOR: Hemantkumar Patel
-ACKNOWLEDGEMENT:
+**ACKNOWLEDGEMENT:**
 Durham College- Post Graduate Certificate in DATA ANALYTICS IN BUSINESS DECISION MAKING
